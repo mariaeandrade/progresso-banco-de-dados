@@ -27,3 +27,7 @@ CREATE TABLE usuarios (
 -- Dados iniciais - USUARIOS
 
 ```
+
+# Problematização 2: Beautytech
+
+Ajudando a startup BeautyTech com a criação de um banco de dados para a organização dos dados dos produtos
